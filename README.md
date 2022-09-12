@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jmsurr
+- 👀 I’m interested in engineering and programming
+- 🌱 I’m currently learning python and R for data sciences
